@@ -4,7 +4,7 @@ const sendButton = document.getElementById("sendButton");
 const micButton = document.getElementById("micButton");
 
 // Back-end API URL
-const API_URL = "https://your-backend-url.com/api/generate";
+const API_URL = "https://9adf603d-dd8d-4891-9025-2160580ea71d-00-3hh2b81e16l3g.worf.replit.dev/";
 
 // Add a message to the chat box
 function addMessage(content, sender) {
