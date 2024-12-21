@@ -4,7 +4,8 @@ const sendButton = document.getElementById("sendButton");
 const micButton = document.getElementById("micButton");
 
 // Back-end API URL
-const API_URL = "http://172.31.196.35:5000";
+const API_URL = "const API_URL = "https://your-repl-url.replit.app/api/generate"; // Ganti dengan URL Replit Anda
+";
 
 // Add a message to the chat box
 function addMessage(content, sender) {
