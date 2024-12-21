@@ -4,7 +4,7 @@ import openai
 app = Flask(__name__)
 
 # Set your OpenAI API Key
-openai.api_key = "your-openai-api-key"
+openai.api_key = "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"
 
 @app.route("/api/generate", methods=["POST"])
 def generate_response():
